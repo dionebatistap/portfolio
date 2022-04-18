@@ -1,2 +1,2 @@
 # portfolio
- Um site criado com pytho
+ Um site criado com python, flask
